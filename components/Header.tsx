@@ -8,8 +8,6 @@ import {
     NavbarItem,
 } from '@nextui-org/react';
 import React from 'react';
-import { ThemeSwitcher } from './ThemeSwitcher';
-import localFont from 'next/font/local';
 import {
     BriefcaseBusiness,
     HomeIcon,
@@ -18,7 +16,6 @@ import {
 } from 'lucide-react';
 import Image from 'next/image';
 
-const futuraBlack = localFont({ src: '../public/Futura Black.ttf' });
 
 const Header = () => {
     return (
