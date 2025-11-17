@@ -55,7 +55,7 @@ export default function Home() {
                             size='sm'
                             className='mt-16 inline-flex md:hidden'
                             as={Link}
-                            href='/aish_resume_v1.1.pdf'
+                            href='/aish_resume_v1.2.pdf'
                             download={'Aishwary_Resume'}
                         >
                             Download Resume <DownloadIcon size={18} />
@@ -66,7 +66,7 @@ export default function Home() {
                             size='lg'
                             className='mt-16 hidden md:inline-flex'
                             as={Link}
-                            href='/aish_resume_v1.1.pdf'
+                            href='/aish_resume_v1.2.pdf'
                             download={'Aishwary_Resume'}
                         >
                             Download Resume <DownloadIcon size={18} />
